@@ -21,11 +21,20 @@ Tracks where a dog is, and pairs them with others based on that location. Could 
 ## Product Spec
 ### 1. User Stories 
 
-* User logs in to access previous chats and preference settings
-* User picks what their favorite artist/genre/etc. (Think Spotify interface)
-* Matches have a chat window to get to know each other, with the ability to skip dogs and unmatch (Tinder Style).
-* Profile pages for each user
-* Settings (Accesibility, Notification, General, etc.)
+* [X] A User will be able to login to application.
+* [X] User can select between multiple navigation items.
+* [X] A new user may create a profile.
+* [X] A user may post an image.
+* [X] A user may view a collection of posts.
+* [X] A user may view a collection of their own posts
+
+### Stretch Stories 
+* [X] The Botton Navigation will have a custom design.
+* [X] The Signup Functionality will be done via button on Login page
+* [] A user will be able to create a blog.
+* [] A user will be able to post their location.
+* [] Users with close locations will be matched.
+* [] Users will be able to delete their account.
 
 ### 2. Screen Archetypes
 
@@ -70,6 +79,21 @@ Tracks where a dog is, and pairs them with others based on that location. Could 
    | caption       | String   | image caption by author |
    | createdAt     | DateTime | date when post is created (default field) |
    | updatedAt     | DateTime | date when post is last updated (default field) |
+     
+#### User
+
+   | Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+   | objectId      | String   | unique id for the user post (default field) |
+   | emailVerified | boolean  | Check user email status |
+   | username      | String   | a online username for any given user |
+   | password      | String   | a password to protect a user's account |
+   | email         | String   |a user's email, used for account recovery|
+   | createdAt     | DateTime | date when post is created (default field) |
+   | updatedAt     | DateTime | date when post is last updated (default field) |
+                                         
+                                         
+                                         
 ### Networking
 #### Screen Requests
    - Home Feed Screen
