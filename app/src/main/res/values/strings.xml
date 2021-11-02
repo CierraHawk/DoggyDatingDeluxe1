@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DoggyDatingDeluxe</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="newusername" />
+    <string name="newpassword" />
+    <string name="btnsignup" />
+    <string name="btnregister" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
