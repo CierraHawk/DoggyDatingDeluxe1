@@ -68,7 +68,9 @@ Tracks where a dog is, and pairs them with others based on that location. Could 
 
 ### Interactive Prototype
 <img src="DoggyDatingTakeOne.gif" width=250><br>
-<img src=https://i.imgur.com/Gulvk4J.gif" width=200> 
+<img src="DoggyDatingTakeTwo.gif" width=250><br>
+
+
 
 ## Schema 
 ### Models
