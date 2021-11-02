@@ -29,7 +29,7 @@ Tracks where a dog is, and pairs them with others based on that location. Could 
 * [X] A user may view a collection of their own posts
 
 
-
+### Application Status (Currently)
 <img src="DoggyDatingTakeOne.gif" width=250><br>
 
 
