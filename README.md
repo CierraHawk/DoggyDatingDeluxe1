@@ -29,11 +29,6 @@ Tracks where a dog is, and pairs them with others based on that location. Could 
 * [X] A user may view a collection of their own posts
 
 
-### Application Status (Currently)
-<img src="DoggyDatingTakeOne.gif" width=250><br>
-
-
-
 
 ### Stretch Stories 
 * [X] The Botton Navigation will have a custom design.
@@ -72,6 +67,7 @@ Tracks where a dog is, and pairs them with others based on that location. Could 
 <img src="https://i.imgur.com/nHLSLVt.jpg" width=800><br>
 
 ### Interactive Prototype
+<img src="DoggyDatingTakeOne.gif" width=250><br>
 <img src=https://i.imgur.com/Gulvk4J.gif" width=200> 
 
 ## Schema 
