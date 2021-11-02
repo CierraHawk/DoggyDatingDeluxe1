@@ -55,7 +55,7 @@ Tracks where a dog is, and pairs them with others based on that location. Could 
 ## Wireframes
 <img src="https://i.imgur.com/nHLSLVt.jpg" width=800><br>
 
-### [BONUS] Interactive Prototype
+### Interactive Prototype
 <img src=https://i.imgur.com/Gulvk4J.gif" width=200> 
 
 ## Schema 
