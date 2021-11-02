@@ -28,7 +28,11 @@ Tracks where a dog is, and pairs them with others based on that location. Could 
 * [X] A user may view a collection of posts.
 * [X] A user may view a collection of their own posts
 
+
+
 <img src="DoggyDatingTakeOne.gif" width=250><br>
+
+
 
 
 ### Stretch Stories 
