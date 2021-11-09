@@ -36,7 +36,8 @@ Tracks where a dog is, and pairs them with others based on that location. Could 
 * [] A user will be able to create a blog.
 * [] A user will be able to post their location.
 * [] Users with close locations will be matched.
-* [] Users will be able to delete their account.
+* [X] Users will be able to delete their account.
+* [X] Users will be able to update their account.
 
 ### 2. Screen Archetypes
 
@@ -101,6 +102,7 @@ Tracks where a dog is, and pairs them with others based on that location. Could 
    | email         | String   |a user's email, used for account recovery|
    | createdAt     | DateTime | date when post is created (default field) |
    | updatedAt     | DateTime | date when post is last updated (default field) |
+   | biography     | String   | Bio of a user |
                                          
                                          
                                          
