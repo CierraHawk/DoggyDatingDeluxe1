@@ -4,10 +4,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Student/Downloads/DoggyDatingDeluxe (3)/DoggyDatingDeluxe/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/booth/Desktop/DoggyDatingDeluxe1/app/src/main/res/layout/activity_login.xml" value="0.3223958333333333" />
+        <entry key="..\:/Users/booth/Desktop/DoggyDatingDeluxe1/app/src/main/res/layout/dogblog.xml" value="0.3223958333333333" />
+        <entry key="..\:/Users/booth/Desktop/DoggyDatingDeluxe1/app/src/main/res/layout/fragment_doggy_dating.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/booth/Desktop/DoggyDatingDeluxe1/app/src/main/res/layout/fragment_doghouse.xml" value="0.3223958333333333" />
+        <entry key="..\:/Users/booth/Desktop/DoggyDatingDeluxe1/app/src/main/res/layout/fragment_home.xml" value="0.3223958333333333" />
+        <entry key="..\:/Users/booth/Desktop/DoggyDatingDeluxe1/app/src/main/res/layout/fragment_profile.xml" value="0.2695167286245353" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
