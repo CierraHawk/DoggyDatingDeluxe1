@@ -76,7 +76,7 @@ Tracks where a dog is, and pairs them with others based on that location. Could 
 <img src="DoggyDatingDeluxeTakeFour.gif" width=250><br>
 <img src="DoggyDatingDeluxeTakeFive.gif" width=250><br>
 <img src="DoggyDatingDeluxeTakeSix.gif" width=250><br>
-<img src="DoggyDatingDeluxeMessaging.gif" width=250><br>
+<img src="DoggyDatingMessaging.gif" width=250><br>
 
 
 
