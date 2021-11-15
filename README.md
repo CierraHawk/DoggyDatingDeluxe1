@@ -36,6 +36,7 @@ Tracks where a dog is, and pairs them with others based on that location. Could 
 * [] A user will be able to create a blog.
 * [] A user will be able to post their location.
 * [] Users with close locations will be matched.
+* [] Users will be able to send messages.
 * [X] Users will be able to delete their account.
 * [X] Users will be able to update their account.
 
@@ -95,7 +96,7 @@ Tracks where a dog is, and pairs them with others based on that location. Could 
 
    | Property      | Type     | Description |
    | ------------- | -------- | ------------|
-   | objectId      | String   | unique id for the user post (default field) |
+   | objectId      | String   | unique id for the user  (default field) |
    | emailVerified | boolean  | Check user email status |
    | username      | String   | a online username for any given user |
    | password      | String   | a password to protect a user's account |
@@ -103,6 +104,19 @@ Tracks where a dog is, and pairs them with others based on that location. Could 
    | createdAt     | DateTime | date when post is created (default field) |
    | updatedAt     | DateTime | date when post is last updated (default field) |
    | biography     | String   | Bio of a user |
+                                         
+                                         
+                                       
+   #### Message
+
+   | Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+   | objectId      | String   | unique id for the user message (default field) |
+   | email         | String   |a user's email, used for account recovery|
+   | createdAt     | DateTime | date when Message is created (default field) |
+   | updatedAt     | DateTime | date when Message is last updated (default field) |
+   | userId        | String   | unique id for user in a messaging system |
+   | body          | String   | the body of the message a user has sent  |
                                          
                                          
                                          
