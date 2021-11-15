@@ -49,9 +49,9 @@ public class MessageAdapter extends RecyclerView.Adapter<MessageAdapter.MessageV
         public IncomingMessageViewHolder(View itemView){
             super(itemView);
 
-            imageOther = itemView.findViewById(R.id.ivProfileOther);
+           // imageOther = itemView.findViewById(R.id.ivProfileOther);
             body = itemView.findViewById(R.id.tvBody);
-            name = itemView.findViewById(R.id.tvName);
+            // name = itemView.findViewById(R.id.tvName);
         }
 
         @Override
@@ -78,9 +78,9 @@ public class MessageAdapter extends RecyclerView.Adapter<MessageAdapter.MessageV
             return MESSAGE_OUTGOING;
         }
         else
-            {
-                return MESSAGE_INCOMING;
-            }
+        {
+            return MESSAGE_INCOMING;
+        }
     }
 
     private boolean isMe(int position) {

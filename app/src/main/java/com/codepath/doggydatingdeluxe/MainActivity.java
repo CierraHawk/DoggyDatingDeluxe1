@@ -25,6 +25,7 @@ import android.widget.Toast;
 import com.codepath.doggydatingdeluxe.fragments.DogHouseFragment;
 import com.codepath.doggydatingdeluxe.fragments.DoggyDatingFragment;
 import com.codepath.doggydatingdeluxe.fragments.HomeFragment;
+import com.codepath.doggydatingdeluxe.fragments.MessageFragment;
 import com.codepath.doggydatingdeluxe.fragments.ProfileFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.parse.FindCallback;
@@ -58,6 +59,7 @@ public class MainActivity extends AppCompatActivity {
                 Fragment fragment = new Fragment();
                 switch (menuItem.getItemId()) {
                     case R.id.action_home:
+                    default:
                         Toast.makeText(MainActivity.this, "Home!", Toast.LENGTH_SHORT).show();
                         fragment = new HomeFragment();
 
@@ -74,8 +76,12 @@ public class MainActivity extends AppCompatActivity {
                         Toast.makeText(MainActivity.this, "Doggy Dating!",Toast.LENGTH_SHORT).show();
                         fragment = new DoggyDatingFragment();
                         break;
-                    default:
+                    case R.id.action_message:
+                        Toast.makeText(MainActivity.this, "Message!",Toast.LENGTH_SHORT).show();
+                        fragment = new MessageFragment();
                         break;
+
+
                 }
                 fragmentManager.beginTransaction().replace(R.id.flContainer, fragment).commit();
                 return true;

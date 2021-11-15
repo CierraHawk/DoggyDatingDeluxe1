@@ -3,15 +3,23 @@
     <string name="username">username</string>
     <string name="password">password</string>
     <string name="login">Login</string>
-    <string name="newusername" />
-    <string name="newpassword" />
-    <string name="btnsignup" />
-    <string name="btnregister" />
-    <!-- TODO: Remove or change this placeholder text -->
+    <string name="newusername"/>
+    <string name="newpassword"/>
+    <string name="btnsignup"/>
+    <string name="btnregister"/>
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="ModPassword" />
-    <string name="ModUsername" />
-    <string name="ModBiography" />
-    <string name="update" />
-    <string name="email" />
+    <string name="ModPassword"/>
+    <string name="ModUsername"/>
+    <string name="ModBiography"/>
+    <string name="update"/>
+    <string name="email"/>
+    <string name="message">Message</string>
+    <string name="doggydating">DoggyDating</string>
+    <string name="doghouse">DogHouse</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="message_hint">Say anything</string>
+    <string name="send">Send</string>
+    <string name="profile_me">My Profile Pic</string>
+    <string name="profile_other">Other profile pic</string>
 </resources>
