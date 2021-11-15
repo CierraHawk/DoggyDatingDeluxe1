@@ -39,6 +39,8 @@ Tracks where a dog is, and pairs them with others based on that location. Could 
 * [] Users will be able to send messages.
 * [X] Users will be able to delete their account.
 * [X] Users will be able to update their account.
+* [X] Users will have a area to send messages.
+* [] Users will be able to send messages.
 
 ### 2. Screen Archetypes
 
@@ -74,6 +76,7 @@ Tracks where a dog is, and pairs them with others based on that location. Could 
 <img src="DoggyDatingDeluxeTakeFour.gif" width=250><br>
 <img src="DoggyDatingDeluxeTakeFive.gif" width=250><br>
 <img src="DoggyDatingDeluxeTakeSix.gif" width=250><br>
+<img src="DoggyDatingDeluxeMessaging.gif" width=250><br>
 
 
 
