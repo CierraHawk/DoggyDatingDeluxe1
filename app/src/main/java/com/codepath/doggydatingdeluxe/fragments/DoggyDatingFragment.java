@@ -13,11 +13,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import com.codepath.doggydatingdeluxe.LoginActivity;
-import com.codepath.doggydatingdeluxe.MainActivity;
 import com.codepath.doggydatingdeluxe.Post;
 import com.codepath.doggydatingdeluxe.R;
 import com.parse.FindCallback;
