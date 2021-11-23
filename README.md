@@ -36,7 +36,7 @@ Tracks where a dog is, and pairs them with others based on that location. Could 
 * [] A user will be able to create a blog.
 * [] A user will be able to post their location.
 * [] Users with close locations will be matched.
-* [] Users will be able to send messages.
+* [X] Users will be able to send messages.
 * [X] Users will be able to delete their account.
 * [X] Users will be able to update their account.
 * [X] Users will have a area to send messages.
