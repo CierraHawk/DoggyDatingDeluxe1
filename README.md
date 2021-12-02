@@ -63,7 +63,7 @@ Tracks where a dog is, and pairs them with others based on that location. Could 
 
 
 **Flow Navigation** (Screen to Screen)
-* Log-in -> Account creation if no log in is available
+* Log-in -> Account creation if no login is available
 * Profile -> Text field to be modified. 
 * Location -> 
 
